@@ -1,0 +1,561 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots App Default 1`] = `
+<div
+  className="sc-bdvvaa fImdWK"
+>
+  <div
+    className="sc-gsDJrp hkNpyT"
+  >
+    <header
+      className="sc-dkPtyc dvJLij"
+    >
+      Star wars heroes
+    </header>
+    <main
+      className="sc-hKwCoD eDKlKF"
+    >
+      <div
+        className="sc-eCImvq eRWipF"
+      >
+        <h3>
+          Character name
+        </h3>
+        <div
+          className="sc-gKckTs iZIuIl"
+        >
+          <input
+            className="sc-iCfLBT lfFxCv"
+            placeholder="Eg. R2D2, Skywalker, Chew"
+            type="text"
+            value=""
+          />
+          <button
+            className="sc-furvIG gKWVDC"
+          >
+            Search
+          </button>
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+`;
+
+exports[`Storyshots App Display 2 People 1`] = `
+<div
+  className="sc-bdvvaa fImdWK"
+>
+  <div
+    className="sc-gsDJrp hkNpyT"
+  >
+    <header
+      className="sc-dkPtyc dvJLij"
+    >
+      Star wars heroes
+    </header>
+    <main
+      className="sc-hKwCoD eDKlKF"
+    >
+      <div
+        className="sc-eCImvq eRWipF"
+      >
+        <h3>
+          Character name
+        </h3>
+        <div
+          className="sc-gKckTs iZIuIl"
+        >
+          <input
+            className="sc-iCfLBT lfFxCv"
+            placeholder="Eg. R2D2, Skywalker, Chew"
+            type="text"
+            value="Lu"
+          />
+          <button
+            className="sc-furvIG gKWVDC"
+          >
+            Search
+          </button>
+        </div>
+        <p>
+          2
+           people found. Please select one, or continue searching.
+        </p>
+        <ul>
+          <li>
+            <button
+              className="sc-kDThTU ezxNAY"
+              onClick={[Function]}
+            >
+              Luke Skywalker
+            </button>
+          </li>
+          <li>
+            <button
+              className="sc-kDThTU ezxNAY"
+              onClick={[Function]}
+            >
+              Luminara Unduli
+            </button>
+          </li>
+        </ul>
+      </div>
+    </main>
+  </div>
+</div>
+`;
+
+exports[`Storyshots App Display 37 People 1`] = `
+<div
+  className="sc-bdvvaa fImdWK"
+>
+  <div
+    className="sc-gsDJrp hkNpyT"
+  >
+    <header
+      className="sc-dkPtyc dvJLij"
+    >
+      Star wars heroes
+    </header>
+    <main
+      className="sc-hKwCoD eDKlKF"
+    >
+      <div
+        className="sc-eCImvq eRWipF"
+      >
+        <h3>
+          Character name
+        </h3>
+        <div
+          className="sc-gKckTs iZIuIl"
+        >
+          <input
+            className="sc-iCfLBT lfFxCv"
+            placeholder="Eg. R2D2, Skywalker, Chew"
+            type="text"
+            value="L"
+          />
+          <button
+            className="sc-furvIG gKWVDC"
+          >
+            Search
+          </button>
+        </div>
+        <p>
+          37
+           people found. Please select one, or continue searching.
+        </p>
+        <ul>
+          <li>
+            <button
+              className="sc-kDThTU ezxNAY"
+              onClick={[Function]}
+            >
+              Luke Skywalker
+            </button>
+          </li>
+          <li>
+            <button
+              className="sc-kDThTU ezxNAY"
+              onClick={[Function]}
+            >
+              Leia Organa
+            </button>
+          </li>
+          <li>
+            <button
+              className="sc-kDThTU ezxNAY"
+              onClick={[Function]}
+            >
+              Owen Lars
+            </button>
+          </li>
+          <li>
+            <button
+              className="sc-kDThTU ezxNAY"
+              onClick={[Function]}
+            >
+              Beru Whitesun lars
+            </button>
+          </li>
+          <li>
+            <button
+              className="sc-kDThTU ezxNAY"
+              onClick={[Function]}
+            >
+              Biggs Darklighter
+            </button>
+          </li>
+          <li>
+            <button
+              className="sc-kDThTU ezxNAY"
+              onClick={[Function]}
+            >
+              Anakin Skywalker
+            </button>
+          </li>
+          <li>
+            <button
+              className="sc-kDThTU ezxNAY"
+              onClick={[Function]}
+            >
+              Wilhuff Tarkin
+            </button>
+          </li>
+          <li>
+            <button
+              className="sc-kDThTU ezxNAY"
+              onClick={[Function]}
+            >
+              Han Solo
+            </button>
+          </li>
+          <li>
+            <button
+              className="sc-kDThTU ezxNAY"
+              onClick={[Function]}
+            >
+              Jabba Desilijic Tiure
+            </button>
+          </li>
+          <li>
+            <button
+              className="sc-kDThTU ezxNAY"
+              onClick={[Function]}
+            >
+              Wedge Antilles
+            </button>
+          </li>
+        </ul>
+        <p>
+          Page 
+          1
+           of 
+          4
+        </p>
+        <button
+          disabled={true}
+          onClick={[Function]}
+        >
+          Previous
+        </button>
+        <button
+          disabled={false}
+          onClick={[Function]}
+        >
+          Next
+        </button>
+      </div>
+    </main>
+  </div>
+</div>
+`;
+
+exports[`Storyshots App Display Person 1`] = `
+<div
+  className="sc-bdvvaa fImdWK"
+>
+  <div
+    className="sc-gsDJrp hkNpyT"
+  >
+    <header
+      className="sc-dkPtyc dvJLij"
+    >
+      Star wars heroes
+    </header>
+    <main
+      className="sc-hKwCoD eDKlKF"
+    >
+      <div
+        className="sc-eCImvq eRWipF"
+      >
+        <h3>
+          Character name
+        </h3>
+        <div
+          className="sc-gKckTs iZIuIl"
+        >
+          <input
+            className="sc-iCfLBT lfFxCv"
+            placeholder="Eg. R2D2, Skywalker, Chew"
+            type="text"
+            value="Luke"
+          />
+          <button
+            className="sc-furvIG gKWVDC"
+          >
+            Search
+          </button>
+        </div>
+      </div>
+      <div
+        className="sc-jRQAMF jSKUxp"
+      >
+        <table
+          className="sc-pVTma fjXvXF"
+        >
+          <thead>
+            <tr>
+              <th
+                colSpan="2"
+              >
+                Luke Skywalker
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                Gender
+              </td>
+              <td>
+                male
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Birth year
+              </td>
+              <td>
+                19BBY
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Height
+              </td>
+              <td>
+                172
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Mass
+              </td>
+              <td>
+                77
+              </td>
+            </tr>
+            <tr>
+              <td>
+                Hair color
+              </td>
+              <td>
+                blond
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </main>
+  </div>
+</div>
+`;
+
+exports[`Storyshots App Fetch Error 1`] = `
+<div
+  className="sc-bdvvaa fImdWK"
+>
+  <div
+    className="sc-gsDJrp hkNpyT"
+  >
+    <header
+      className="sc-dkPtyc dvJLij"
+    >
+      Star wars heroes
+    </header>
+    <main
+      className="sc-hKwCoD eDKlKF"
+    >
+      <div
+        className="sc-eCImvq eRWipF"
+      >
+        <h3>
+          Character name
+        </h3>
+        <div
+          className="sc-gKckTs iZIuIl"
+        >
+          <input
+            className="sc-iCfLBT lfFxCv"
+            placeholder="Eg. R2D2, Skywalker, Chew"
+            type="text"
+            value="Luke"
+          />
+          <button
+            className="sc-furvIG gKWVDC"
+          >
+            Search
+          </button>
+        </div>
+        <p
+          className="sc-jrQzUz cqHOEu"
+        >
+          Oops - something's not working properly! Have another go 🤞
+        </p>
+      </div>
+    </main>
+  </div>
+</div>
+`;
+
+exports[`Storyshots App Loading Data 1`] = `
+<div
+  className="sc-bdvvaa fImdWK"
+>
+  <div
+    className="sc-gsDJrp hkNpyT"
+  >
+    <header
+      className="sc-dkPtyc dvJLij"
+    >
+      Star wars heroes
+    </header>
+    <main
+      className="sc-hKwCoD eDKlKF"
+    >
+      <div
+        className="sc-eCImvq eRWipF"
+      >
+        <h3>
+          Character name
+        </h3>
+        <div
+          className="sc-gKckTs iZIuIl"
+        >
+          <input
+            className="sc-iCfLBT lfFxCv"
+            placeholder="Eg. R2D2, Skywalker, Chew"
+            type="text"
+            value="Luke"
+          />
+          <button
+            className="sc-furvIG gKWVDC"
+          >
+            Search
+          </button>
+        </div>
+        <div
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "<svg xmlns=\\"http://www.w3.org/2000/svg\\" viewBox=\\"0 0 32 32\\">
+  <path transform=\\"translate(0 0)\\" d=\\"M0 12 V20 H4 V12z\\">
+    <animateTransform attributeName=\\"transform\\" type=\\"translate\\" values=\\"0 0; 28 0; 0 0; 0 0\\" dur=\\"1.5s\\" begin=\\"0\\" repeatCount=\\"indefinite\\" keytimes=\\"0;0.3;0.6;1\\" keySplines=\\"0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8\\" calcMode=\\"spline\\" />
+  </path>
+  <path opacity=\\"0.5\\" transform=\\"translate(0 0)\\" d=\\"M0 12 V20 H4 V12z\\">
+    <animateTransform attributeName=\\"transform\\" type=\\"translate\\" values=\\"0 0; 28 0; 0 0; 0 0\\" dur=\\"1.5s\\" begin=\\"0.1s\\" repeatCount=\\"indefinite\\" keytimes=\\"0;0.3;0.6;1\\" keySplines=\\"0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8\\" calcMode=\\"spline\\" />
+  </path>
+  <path opacity=\\"0.25\\" transform=\\"translate(0 0)\\" d=\\"M0 12 V20 H4 V12z\\">
+    <animateTransform attributeName=\\"transform\\" type=\\"translate\\" values=\\"0 0; 28 0; 0 0; 0 0\\" dur=\\"1.5s\\" begin=\\"0.2s\\" repeatCount=\\"indefinite\\" keytimes=\\"0;0.3;0.6;1\\" keySplines=\\"0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8\\" calcMode=\\"spline\\" />
+  </path>
+</svg>
+",
+            }
+          }
+          style={
+            Object {
+              "fill": "#ddd",
+              "height": 64,
+              "width": 64,
+            }
+          }
+        />
+      </div>
+    </main>
+  </div>
+</div>
+`;
+
+exports[`Storyshots App No Results Found 1`] = `
+<div
+  className="sc-bdvvaa fImdWK"
+>
+  <div
+    className="sc-gsDJrp hkNpyT"
+  >
+    <header
+      className="sc-dkPtyc dvJLij"
+    >
+      Star wars heroes
+    </header>
+    <main
+      className="sc-hKwCoD eDKlKF"
+    >
+      <div
+        className="sc-eCImvq eRWipF"
+      >
+        <h3>
+          Character name
+        </h3>
+        <div
+          className="sc-gKckTs iZIuIl"
+        >
+          <input
+            className="sc-iCfLBT lfFxCv"
+            placeholder="Eg. R2D2, Skywalker, Chew"
+            type="text"
+            value="Blah"
+          />
+          <button
+            className="sc-furvIG gKWVDC"
+          >
+            Search
+          </button>
+        </div>
+        <p
+          className="sc-jrQzUz cqHOEu"
+        >
+          Sorry, but we can't find a person by the name of
+           
+          <strong>
+            Blah
+          </strong>
+        </p>
+      </div>
+    </main>
+  </div>
+</div>
+`;
+
+exports[`Storyshots App Try This Name 1`] = `
+<div
+  className="sc-bdvvaa fImdWK"
+>
+  <div
+    className="sc-gsDJrp hkNpyT"
+  >
+    <header
+      className="sc-dkPtyc dvJLij"
+    >
+      Star wars heroes
+    </header>
+    <main
+      className="sc-hKwCoD eDKlKF"
+    >
+      <div
+        className="sc-eCImvq eRWipF"
+      >
+        <h3>
+          Character name
+        </h3>
+        <div
+          className="sc-gKckTs iZIuIl"
+        >
+          <input
+            className="sc-iCfLBT lfFxCv"
+            placeholder="Eg. R2D2, Skywalker, Chew"
+            type="text"
+            value="Luke"
+          />
+          <button
+            className="sc-furvIG gKWVDC"
+          >
+            Search
+          </button>
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+`;
